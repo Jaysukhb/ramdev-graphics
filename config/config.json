@@ -1,0 +1,58 @@
+{
+  "site": {
+    "title": "Ramdev Graphics",
+    "base_url": "/",
+    "favicon": "/images/favicon.png",
+    "logo": "/images/logo.png",
+    "logo_width": "240",
+    "logo_height": "34",
+    "logo_text": "Ramdev"
+  },
+
+  "settings": {
+    "pagination": 6,
+    "summary_length": 200,
+    "blog_folder": "posts"
+  },
+
+  "params": {
+    "tag_manager_id": "",
+    "contact_form_action": "/",
+    "footer_content": "Choose us as your premier border banner and printing provider, where quality craftsmanship and attention to detail meet your branding needs",
+    "copyright": "© 2023 Ramdev Graphics"
+  },
+
+  "contact_info": {
+    "phone": "+91 8347142741",
+    "email": "ramdevgraphics@gmail.com",
+    "location": "137, Creation Plaza-2, nr. Saskardham Soc, Surat, Gujarat 395010"
+  },
+
+  "nav_button": {
+    "enable": true,
+    "label": "Contact Now",
+    "link": "tel:+918347142741"
+  },
+
+  "metadata": {
+    "meta_author": "Themefisher",
+    "meta_image": "/images/og-image.png",
+    "meta_description": "Andromeda-light Nextjs Blog Template"
+  },
+
+  "call_to_action": {
+    "enable": true,
+    "title": "Get in Touch",
+    "content": "With our expertise in border banners and printing, we bring your vision to life with </br> precision and vibrant colors. Experience exceptional service and results with us.",
+    "button": {
+      "label": "Connect Now",
+      "link": "https://wa.me/918347142741"
+    }
+  },
+
+  "disqus": {
+    "enable": true,
+    "shortname": "themefisher-template",
+    "settings": {}
+  }
+}
